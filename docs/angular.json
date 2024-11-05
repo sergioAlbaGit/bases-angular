@@ -41,6 +41,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref" : "https://sergioAlbaGit.github.io/bases-angular",
               "budgets": [
                 {
                   "type": "initial",
